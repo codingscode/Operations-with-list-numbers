@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(221, 255, 177);
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+    
+    text-align: center;
+
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('./fonts/Roboto_Slab/RobotoSlab-VariableFont_wght.ttf');
+}
