@@ -33,7 +33,7 @@ export default {
              this.greatest = calc_greatest(list)
          },
          clear() {
-             this.values = ''
+             this.values = []
              this.greatest = null
          }
      }

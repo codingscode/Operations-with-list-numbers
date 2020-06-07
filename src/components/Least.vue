@@ -33,7 +33,7 @@ export default {
              this.least = calc_least(list)
          },
          clear() {
-             this.values = ''
+             this.values = []
              this.least = null
          }  
      }

@@ -31,7 +31,7 @@ export default {
             this.gcd = calc_gcd(this.list)
         },
         clear() {
-             this.list = ''
+             this.list = []
              this.gcd = null
         }
     }

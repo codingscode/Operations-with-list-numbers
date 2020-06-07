@@ -31,7 +31,7 @@ export default {
             this.lcm = calc_lcm(this.list)
         },
         clear() {
-             this.list = ''
+             this.list = []
              this.lcm = null
         }
     }
